@@ -6,6 +6,22 @@ TagManager:
   tags:
   - inventory
   - item
+  - obstacle
+  - outCircle
+  - inCircle
+  - Shadow1
+  - Shadow2
+  - Shadow3
+  - Shadow4
+  - Planet1
+  - Planet2
+  - Planet3
+  - Planet4
+  - Point1
+  - Point2
+  - Point3
+  - Point4
+  - titlejam
   layers:
   - Default
   - TransparentFX
@@ -42,4 +58,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3353016497
     locked: 0

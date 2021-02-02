@@ -1,0 +1,104 @@
+
+Dog.png
+size: 7761,2808
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Angry_mou_1
+  rotate: true
+  xy: 7037, 398
+  size: 318, 216
+  orig: 318, 216
+  offset: 0, 0
+  index: -1
+Angry_mou_2
+  rotate: true
+  xy: 7037, 84
+  size: 304, 177
+  orig: 304, 177
+  offset: 0, 0
+  index: -1
+B_Leg_1
+  rotate: false
+  xy: 7066, 1640
+  size: 496, 1158
+  orig: 496, 1158
+  offset: 0, 0
+  index: -1
+B_Leg_2
+  rotate: true
+  xy: 3469, 65
+  size: 516, 1114
+  orig: 516, 1114
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 4234, 645
+  size: 2153, 1505
+  orig: 2153, 1988
+  offset: 0, 483
+  index: -1
+Cat_B_Leg_1
+  rotate: true
+  xy: 10, 45
+  size: 513, 1232
+  orig: 583, 1232
+  offset: 0, 0
+  index: -1
+Cat_B_Leg_2
+  rotate: true
+  xy: 2358, 28
+  size: 553, 1101
+  orig: 617, 1101
+  offset: 0, 0
+  index: -1
+Cat_Body
+  rotate: true
+  xy: 5749, 726
+  size: 2072, 1307
+  orig: 2072, 1949
+  offset: 0, 642
+  index: -1
+Cat_F_Leg_1
+  rotate: true
+  xy: 1252, 15
+  size: 543, 1096
+  orig: 544, 1096
+  offset: 1, 0
+  index: -1
+Cat_F_Leg_2
+  rotate: false
+  xy: 7263, 577
+  size: 488, 1053
+  orig: 488, 1053
+  offset: 0, 0
+  index: -1
+Dog_Sit
+  rotate: true
+  xy: 2153, 591
+  size: 2207, 2071
+  orig: 2207, 2071
+  offset: 0, 0
+  index: -1
+Dog_angry
+  rotate: true
+  xy: 10, 568
+  size: 2230, 2133
+  orig: 2230, 2133
+  offset: 0, 0
+  index: -1
+F_Leg_1
+  rotate: true
+  xy: 4593, 10
+  size: 625, 1242
+  orig: 625, 1242
+  offset: 0, 0
+  index: -1
+F_Leg_2
+  rotate: true
+  xy: 5845, 93
+  size: 623, 1182
+  orig: 623, 1182
+  offset: 0, 0
+  index: -1

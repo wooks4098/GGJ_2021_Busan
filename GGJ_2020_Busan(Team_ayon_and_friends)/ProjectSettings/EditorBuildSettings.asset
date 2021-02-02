@@ -6,6 +6,27 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/whwogus/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Melon4098/Scene/Title.unity
+    guid: 86e14f34dc1c24a4081bbfa2b8c65974
+  - enabled: 1
+    path: Assets/Melon4098/Scene/test1.unity
+    guid: 9b4abe0caf2d5ee42b0371ed1c13b17b
+  - enabled: 1
+    path: Assets/Whwogus/Scenes/Stage1.unity
+    guid: 14ec7f99009e27f478d81897811fa27d
+  - enabled: 1
+    path: Assets/Whwogus/Scenes/Stage2.unity
+    guid: 3158173053414664b84a2ea4130004fe
+  - enabled: 1
+    path: Assets/Whwogus/Scenes/Stage3.unity
+    guid: c07916ecfaf3aa24ba4a4d8259c61ebd
+  - enabled: 1
+    path: Assets/Melon4098/Scene/Opening.unity
+    guid: f02401d3d9393534a9e0af9ef0dc965c
+  - enabled: 1
+    path: Assets/Melon4098/Scene/Credit.unity
+    guid: ceb06ae1b8bcb49448b729dd462bc647
+  - enabled: 1
+    path: Assets/Melon4098/Scene/EndingScene.unity
+    guid: d130228068559ed478cd445f083e7a31
   m_configObjects: {}

@@ -1,0 +1,125 @@
+
+Character_Spine.png
+size: 10935,1867
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_Arm2_2
+  rotate: false
+  xy: 9448, 99
+  size: 698, 1012
+  orig: 698, 1055
+  offset: 0, 0
+  index: -1
+B_Arm_1
+  rotate: true
+  xy: 9073, 187
+  size: 223, 332
+  orig: 223, 332
+  offset: 0, 0
+  index: -1
+B_Arm_2
+  rotate: false
+  xy: 4623, 35
+  size: 1122, 480
+  orig: 1122, 480
+  offset: 0, 0
+  index: -1
+B_Hair
+  rotate: false
+  xy: 8192, 420
+  size: 1246, 691
+  orig: 1297, 691
+  offset: 0, 0
+  index: -1
+B_Leg
+  rotate: true
+  xy: 4623, 525
+  size: 665, 2096
+  orig: 665, 2096
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 10, 21
+  size: 1836, 2571
+  orig: 1836, 2571
+  offset: 0, 0
+  index: -1
+Clo
+  rotate: true
+  xy: 8795, 1121
+  size: 736, 1513
+  orig: 736, 1513
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 8675, 88
+  size: 388, 322
+  orig: 388, 322
+  offset: 0, 0
+  index: -1
+Eye_up
+  rotate: false
+  xy: 8192, 224
+  size: 473, 186
+  orig: 473, 186
+  offset: 0, 0
+  index: -1
+F_Arm2_2
+  rotate: false
+  xy: 10156, 10
+  size: 688, 1000
+  orig: 688, 1000
+  offset: 0, 0
+  index: -1
+F_Arm_1
+  rotate: false
+  xy: 10318, 1020
+  size: 607, 837
+  orig: 607, 837
+  offset: 0, 0
+  index: -1
+F_Arm_2
+  rotate: false
+  xy: 5755, 48
+  size: 990, 467
+  orig: 990, 467
+  offset: 0, 0
+  index: -1
+F_Hair_1
+  rotate: true
+  xy: 2591, 52
+  size: 1805, 2022
+  orig: 1805, 2022
+  offset: 0, 0
+  index: -1
+F_Hair_2
+  rotate: true
+  xy: 6843, 1269
+  size: 588, 1942
+  orig: 588, 1942
+  offset: 0, 0
+  index: -1
+F_Leg
+  rotate: true
+  xy: 4623, 1200
+  size: 657, 2210
+  orig: 658, 2210
+  offset: 1, 0
+  index: -1
+Head
+  rotate: true
+  xy: 6843, 205
+  size: 1054, 1339
+  orig: 1624, 1339
+  offset: 285, 0
+  index: -1
+Tear
+  rotate: true
+  xy: 6729, 1071
+  size: 119, 68
+  orig: 119, 68
+  offset: 0, 0
+  index: -1

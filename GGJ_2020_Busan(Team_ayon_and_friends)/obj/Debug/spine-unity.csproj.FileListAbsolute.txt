@@ -261,3 +261,4 @@ G:\GitHub\GGJ_2021_Busan\GGJ_2020_Busan(Team_ayon_and_friends)\obj\Debug\spine-u
 G:\GitHub\GGJ_2021_Busan\GGJ_2020_Busan(Team_ayon_and_friends)\obj\Debug\spine-unity.csproj.CopyComplete
 G:\GitHub\GGJ_2021_Busan\GGJ_2020_Busan(Team_ayon_and_friends)\obj\Debug\spine-unity.dll
 G:\GitHub\GGJ_2021_Busan\GGJ_2020_Busan(Team_ayon_and_friends)\obj\Debug\spine-unity.pdb
+G:\GitHub\GGJ_2021_Busan\GGJ_2020_Busan(Team_ayon_and_friends)\Temp\bin\Debug\Pathfinding.Ionic.Zip.Reduced.dll

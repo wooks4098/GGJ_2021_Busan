@@ -9,14 +9,16 @@ public class ItemObjectInformation
     public ItemType type;
     public int stage;
     public int targetId;
+    public int key;
 
-    public ItemObjectInformation(int _id, string _itemName, ItemType _type, int _stage, int _targetId = -1)
+    public ItemObjectInformation(int _id, string _itemName, ItemType _type, int _stage, int _targetId = -1, int _key = -1)
     {
         id = _id;
         itemName = _itemName;
         type = _type;
         stage = _stage;
         targetId = _targetId;
+        key = _key;
     }
 
     public enum ItemType

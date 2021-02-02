@@ -19,7 +19,7 @@ public class MousePoint : MonoBehaviour
         Vector3 newPosition = Camera.main.ScreenToWorldPoint(new Vector3(Input.mousePosition.x, Input.mousePosition.y, Input.mousePosition.z));
         Mouse_Light.transform.position = new Vector3(newPosition.x, newPosition.y, 0);
 
-        print("X : " + newPosition.x + ", Y : " + newPosition.y + ", Z : " + 0);
+        //print("X : " + newPosition.x + ", Y : " + newPosition.y + ", Z : " + 0);
 
     }
 }

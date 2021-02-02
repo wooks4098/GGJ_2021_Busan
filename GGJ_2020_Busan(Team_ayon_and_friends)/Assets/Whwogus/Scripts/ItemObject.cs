@@ -8,15 +8,19 @@ public class ItemObject : MonoBehaviour, IDragHandler
     Vector2 mousePos;
     [HideInInspector] public int roomCnt;
     public bool isActivated;
+    public int stage;
+    public int id;
     [HideInInspector] public GameObject targetInven;
 
     public void OnDrag(PointerEventData eventData)
-    {
+    {/*
         if (isActivated)
         {
+            BagManager.isOjectGripped = true;
             mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
             transform.position = mousePos;
         }
+        Debug.Log(isActivated);*/
     }
 
     void Start()
